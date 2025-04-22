@@ -65,4 +65,25 @@ img-align-celeba/
 
 - Loss values for both networks are plotted and saved as `celeba_loss.png`
 
+## 💡 Tips
+
+- Training GANs can be unstable. Experiment with learning rates, batch sizes, or adding gradient penalty.
+
+- Try increasing resolution (128x128) or using a progressive GAN setup.
+
+## 📚 References
+
+- DCGAN Paper
+
+- PyTorch GAN Tutorial: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+
+## 🧑‍💻 Author
+M. Ajay Sivakumar
+
+Student at Hindustan University Chennai
+
+Passionate about AI, Computer Vision, and Deep Learning.
+
+**Feel free to contribute, fork, or use the model for other datasets!**
+
 
