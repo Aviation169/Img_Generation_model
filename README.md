@@ -1,4 +1,4 @@
-# GAN - Face Generation with PyTorch
+# DCGAN - Face Generation with PyTorch
 
 This project uses a Deep Convolutional Generative Adversarial Network (DCGAN) implemented in PyTorch to generate realistic human face images, trained on the CelebA dataset.
 
