@@ -6,7 +6,17 @@ This project uses a Deep Convolutional Generative Adversarial Network (DCGAN) im
 
 ## 📁 Project Structure
 
+```
+Model/
+└── Generated_img/
+      ├── celeba_epoch_0.png
+└── Training_img
+      └──celebA/
+           ├── 000001.jpg
+└── Dataset.ipynb
+└── Training.ipynb
 
+```
 
 
 ## 🧠 Models
