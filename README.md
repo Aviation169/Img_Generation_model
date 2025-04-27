@@ -50,7 +50,18 @@ img-align-celeba/
     └── ...
 ```
 Training dataset
-![Sample Image](Training_img/celebA/000001.png)
+
+<p align="center">
+  <img src="Model/Training_img/celebA/000001.png" alt="Sample Image" width="300"/>
+</p>
+
+Generated Imgage
+
+<p align="center">
+  <img src="Model/Training_img/celebA/000001.png" alt="Sample Image" width="300"/>
+</p>
+
+
 
 ## 🚀 Training
 
