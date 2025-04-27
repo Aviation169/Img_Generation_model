@@ -58,7 +58,7 @@ Training dataset
 Generated Imgage
 
 <p align="center">
-  <img src="Model/Training_img/celebA/000001.png" alt="Sample Image" width="300"/>
+  <img src="Model/Generated_img/celeba_epoch_49.png" alt="Sample Image" width="300" height=50/>
 </p>
 
 
