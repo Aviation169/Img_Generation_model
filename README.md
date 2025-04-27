@@ -49,6 +49,8 @@ img-align-celeba/
     ├── 000002.jpg
     └── ...
 ```
+Training dataset
+![Sample Image](Training_img/celebA/000001.png)
 
 ## 🚀 Training
 
